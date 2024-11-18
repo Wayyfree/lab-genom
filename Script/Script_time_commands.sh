@@ -15,4 +15,4 @@ git add .
 git commit -m "Automated commit of scripts on $(date '+%Y-%m-%d %H:%M:%S')"
 
 #push commit
-git push origin main
+git push
